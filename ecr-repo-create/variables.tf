@@ -1,4 +1,4 @@
 variable "ecr" {
-  default = ["cart", "catalogue", "user", "shipping", "payment", "frontend"]
+  default = ["cart", "catalogue", "user", "shipping", "payment", "frontend", "schema-load"]
 }
 
